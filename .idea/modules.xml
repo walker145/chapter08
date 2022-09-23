@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Data structure and algorithm/Data structure and algorithm.iml" filepath="$PROJECT_DIR$/../Data structure and algorithm/Data structure and algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Houserent/Houserent.iml" filepath="$PROJECT_DIR$/../Houserent/Houserent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RegExp/RegExp.iml" filepath="$PROJECT_DIR$/../RegExp/RegExp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter 08.iml" filepath="$PROJECT_DIR$/chapter 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../projectmis/projectmis.iml" filepath="$PROJECT_DIR$/../projectmis/projectmis.iml" />
+    </modules>
+  </component>
+</project>
